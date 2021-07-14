@@ -1,2 +1,1 @@
-# dev.gmsmatrix
-dev.gmsmatrix
+# gms-matrix
